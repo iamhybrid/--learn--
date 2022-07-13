@@ -32,9 +32,6 @@ const num = 20;
 
       context.restore();
     }
-    
-
-
   };
 };
 
